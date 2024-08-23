@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivaaorion
 - 👀 I’m interested in playing games and guitar, and translating texts between Portuguese Brazilian and English.
-- 🌱 I’m currently learning python and AI Tranning.
+- 🌱 I’m currently learning AI Tranning.
 - 💞️ I’m looking to collaborate on projects that bring joy to the user.
 - 📫 How to reach me shiva.orion@outlook.com
 - 😄 Pronouns: They/Them He/Him
