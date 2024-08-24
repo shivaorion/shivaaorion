@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI Tranning.
 - 💞️ I’m looking to collaborate on projects that bring joy to the user.
 - 👨🏻‍💻 Currently working at Microsoft as a Developer in the Windows Insider Program.
-- 📓 Skills:
+* 📓 Skills:
 - 🖥️ Database Tools:
   MySQL Workbench (Basic), Power BI (Advanced);
 - 🖥️ Programming Languages and Tools:
