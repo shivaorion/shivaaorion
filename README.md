@@ -11,7 +11,7 @@ C# (Basic), C++ (Basic), GitHub (Basic), Python (Basic), SQL (Basic);
 📋 Office Suite:
 Microsoft Excel (Advanced), Microsoft Word (Basic);
 🌐 Web Design:
-CSS (Basic), HTML (Basic)./n
+CSS (Basic), HTML (Basic).
 - 📫 How to reach me shiva.orion@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I practice karate.
