@@ -3,16 +3,15 @@
 - 🌱 I’m currently learning AI Tranning.
 - 💞️ I’m looking to collaborate on projects that bring joy to the user.
 - 👨🏻‍💻 Currently working at Microsoft as a Developer in the Windows Insider Program.
-* 📓 Skills:
-- 🖥️ Database Tools:
-  MySQL Workbench (Basic), Power BI (Advanced);
-- 🖥️ Programming Languages and Tools:
-  C# (Basic), C++ (Basic), GitHub (Basic), Python (Basic), SQL (Basic);
-- 📋 Office Suite:
-  Microsoft Excel (Advanced), Microsoft Word (Basic);
-- 🌐 Web Design:
-  CSS (Basic), HTML (Basic).
-
+- 📓 Skills:
+🖥️ Database Tools:
+MySQL Workbench (Basic), Power BI (Advanced);
+🖥️ Programming Languages and Tools:
+C# (Basic), C++ (Basic), GitHub (Basic), Python (Basic), SQL (Basic);
+📋 Office Suite:
+Microsoft Excel (Advanced), Microsoft Word (Basic);
+🌐 Web Design:
+CSS (Basic), HTML (Basic)./n
 - 📫 How to reach me shiva.orion@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I practice karate.
