@@ -7,7 +7,7 @@
 🖥️ Database Tools:
 MySQL Workbench (Basic), Power BI (Advanced);
 🖥️ Programming Languages and Tools:
-C# (Basic), C++ (Basic), GitHub (Basic), Python (Basic), SQL (Basic);
+C# (Basic), C++ (Basic), GitHub (Basic), SQL (Basic);
 📋 Office Suite:
 Microsoft Excel (Advanced), Microsoft Word (Basic);
 🌐 Web Design:
