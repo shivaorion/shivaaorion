@@ -4,16 +4,16 @@
 - 💞️ I’m looking to collaborate on projects that bring joy to the user.
 - 👨🏻‍💻 Currently studying databases at Senac University Center - Pindorama (Brazil).
 - 📓 Skills:
-📑 Database Tools:
-MySQL Workbench (Basic), Power BI (Intermediate);
-✒️ Programming Languages and Tools:
-C# (Basic), C++ (Basic), GitHub (Basic), GitHub Desktop (Basic), SQL (Basic);
-📋 Office Suite:
-Microsoft Excel (Advanced), Microsoft Word (Basic);
-🌐 Web Design:
-CSS (Basic), HTML (Basic).
-🖥️ Operating Systems:
-- Linux (Basic), Windows (Intermediate)
+  - 📑 Database Tools:
+    - MySQL Workbench (Basic), Power BI (Intermediate);
+  - ✒️ Programming Languages and Tools:
+    - C# (Basic), C++ (Basic), GitHub (Basic), GitHub Desktop (Basic), SQL (Basic);
+  - 📋 Office Suite:
+    - Microsoft Excel (Advanced), Microsoft Word (Basic);
+  - 🌐 Web Design:
+    - CSS (Basic), HTML (Basic).
+  - 🖥️ Operating Systems:
+    - Linux (Basic), Windows (Intermediate)
 
 - 📫 How to reach me shiva.orion@outlook.com
 - 😄 Pronouns: Whatever you feel like 😅
