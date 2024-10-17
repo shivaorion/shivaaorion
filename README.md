@@ -1,23 +1,15 @@
-- 👋 Hi, I’m @shivaaorion
-- 👀 I’m interested in playing games and guitar, and translating texts between Portuguese Brazilian, and English.
-- 🌱 I’m currently learning about databases and IA image generation.
-- 💞️ I’m looking to collaborate on projects that bring joy to the user.
-- 👨🏻‍💻 Currently studying databases at Senac University Center - Pindorama (Brazil).
+- 👋 Hi, I’m Márcio Vianna Júnior, aka Shiva Andromeda Orion
+- 👀 I’m interested in playing games and the guitar, and translating texts between Portuguese Brazilian and English to spread Brazlian Culture and make English content more accessable with a personal touch. You can check it out if you want: <br> https://ponte-arco-iris.tumblr.com 🙂
+- 🌱 I’m currently learning about Data Analysis and AI.
+- 💞️ I’m happy to collaborate on any project I can help develop.
+- 👨🏻‍💻 Currently studying Data Analysis and AI tools like Perplexity and ChatGPT.
 - 📓 Skills:
-  - 📑 Database Tools:
-    - MySQL Workbench (Basic), Power BI (Intermediate);
-  - ✒️ Programming Languages and Tools:
-    - C# (Basic), C++ (Basic), GitHub (Basic), GitHub Desktop (Basic), SQL (Basic);
-  - 📋 Office Suite:
-    - Microsoft Excel (Advanced), Microsoft Word (Basic);
-  - 🌐 Web Design:
-    - CSS (Basic), HTML (Basic).
-  - 🖥️ Operating Systems:
-    - Linux (Basic), Windows (Intermediate)
-
+    - GitHub (Basic), GitHub Desktop (Basic);
+    - Microsoft Excel (Intermediate), Microsoft Word (Basic);
+    - Linux (("Very ")Basic), Windows (Intermediate);
 - 📫 How to reach me shiva.orion@outlook.com
-- 😄 Pronouns: Whatever you feel like 😅
-- ⚡ Fun fact: I practice karate.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love practicing karate and am teaching myself to sing.
 
 <!---
 shivaaorion/shivaaorion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
