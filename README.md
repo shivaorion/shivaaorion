@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Márcio Vianna Júnior, aka Shiva Andromeda Orion
 - 👀 I’m interested in playing games and the guitar, and translating texts between Portuguese Brazilian and English to spread Brazlian Culture and make English content more accessable with a personal touch. You can check it out if you want: <br> https://ponte-arco-iris.tumblr.com 🙂
 - 🌱 I’m currently learning about Data Analysis and AI.
-- 💞️ I’m happy to collaborate on any project I can help develop.
+- 💞️ I’m happy to collaborate on any open source project I can help develop.
 - 👨🏻‍💻 Currently studying Data Analysis and AI tools like Perplexity and ChatGPT.
 - 📓 Skills:
     - GitHub (Basic), GitHub Desktop (Basic);
