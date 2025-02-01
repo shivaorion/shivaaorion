@@ -3,7 +3,7 @@
 👀 I’m interested in playing games and developing skills in audio engineering and drums. I translate texts between Brazilian Portuguese and English to spread Brazilian Culture and make English content more available to Brazilian Portuguese speakers as a hobby, <a href="https://ponte-arco-iris.tumblr.com/">check it out</a>.<br>
 <br>
 🌱 I’m currently working with AI Image Creation with tools like Bing's Image Creator and Microsoft Designer, Midjourney, and Leonardo (with a litte ChatGPT on the side).<br>
-💞️ I’m happy to collaborate with any Open Source project I can help develop feel free to use the repositories.<br>
+💞️ I’m happy to collaborate with any Open Source project I can help develop feel free to use the content in the repositories and <a href="https://mind-galery.tumblr.com/">here</a>.<br>
 <br>
 📫 How to reach me: <a href="https://orion-poster.tumblr.com/">Órion Pôster</a><br>
 😄 Pronouns: He/Him<br>
